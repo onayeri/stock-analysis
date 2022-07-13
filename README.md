@@ -23,7 +23,7 @@
 #### Advantages and Disadvantages of Refactored VBA Script
 ---
 ##### Advantages:
-* ##### Because a lot of the outline of the code and flow of inssructions were already done in the original code, it made it easier for me to refactor the code with new information that I wanted to incorporate. I had more of an idea for where certain lines of code should go because a lot of the information repeated and carried a pattern that I could follow. 
+* ##### Because a lot of the outline of the code and flow of inssructions was already completed in the original code, it made it easier for me to refactor the code with new information that I wanted to incorporate into the stock analysis table. I had more of an idea for where certain lines of code should go because a lot of the information repeated and carried the same nested for loop pattern that I could follow. Some of the VBA subscript outlines were multi-purposeful, so I was able to do two different things whil following the overall same script pattern.
 ---
 ##### Disadvantages: 
-* ##### 
+* ##### Similar to the disadvantages in coding in general, I faced errors when implementing some of my changes within the code. I had to be mindful of what lines of code I was adding and changing and how each of those changes effected the way the script ran. Keeping track of the changes as you go I think is good practice because it's easy to make a lot of changes and not know where the root of the error is within the code. VBA will only highlight where the issue is, but it will not give a lot of context on the root of the problem or solutions for it.
