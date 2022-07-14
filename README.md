@@ -11,7 +11,7 @@
 ![image](https://user-images.githubusercontent.com/105329532/178881402-ea809160-4b91-4be5-9314-1d2838ab128d.png)
 ---
 #### 2018 Stock Analysis
-##### The coding is also the same for 2018 within the format of the table and the outputs that the code targets. The only diffrence is that I was able to create an input specifically for looping through the data in 2018. By enetering the year 2018 in the message box shown in the image below, I was able to get a table of the stocks along with the variable data for the total daily volume and return percentage for 2018. As a result, the data shows us that in 2018 only two tickers had a positive return while the rest of the stocks that year had a negative return. Again, this is indicated by the color coding, green for positive and red for nagative. 
+##### The coding is also the same for 2018 within the format of the table and the outputs that the code targets. The only diffrence is that I was able to create an input specifically for looping through the data in 2018. By enetering the year 2018 in the message box shown in the image below, I was able to get a table of the stocks along with the variable data for the total daily volume and return percentage for 2018. As a result, the data shows us that in 2018 only two tickers had a positive return while the rest of the stocks that year had a negative return. Again, this is indicated by the color coding, green for positive and red for nagative. For both outputs, I was able to implement a run time messge box that allowed me to numerically capture the time of the macro run.
 ---
 ![image](https://user-images.githubusercontent.com/105329532/178883089-f1fd1f04-382d-42e3-ad03-7d071272aa09.png)
 
