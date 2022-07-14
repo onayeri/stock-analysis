@@ -5,10 +5,19 @@
 ### Results
 ---
 #### 2017 Stock Analysis
-##### 
+##### The 2017 Stock Analysis table was designed in VBA to loop through the different ticker rows within the 2017 Worksheet and compile the daily total volume from the volume column in the original sheet. In VBA, I was able to create these variables and assign an equation corresponding to the starting price and ending price column. The image below shows the code that specifies the variables presented in the table. Using through a series of if-then statements, I was able to color code the return percentages by thier positive and negative values. It is made clear in the 2017 table that only two stock types had a negative return. The two stock tickers were RUN and TERP highlighted in red; the rest of the tickers had a positive return which is highlighted in green. 
+---
+![image](https://user-images.githubusercontent.com/105329532/178869270-0a80811f-8394-492f-9964-4f9f5119d1d0.png)
+![image](https://user-images.githubusercontent.com/105329532/178881402-ea809160-4b91-4be5-9314-1d2838ab128d.png)
 ---
 #### 2018 Stock Analysis
-#####
+##### The coding is also the same for 2018 within the format of the table and the outputs that the code targets. The only diffrence is that I was able to create an input specifically for looping through the data in 2018. By enetering the year 2018 in the message box shown in the image below, I was able to get a table of the stocks along with the variable data for the total daily volume and return percentage for 2018. As a result, the data shows us that in 2018 only two tickers had a positive return while the rest of the stocks that year had a negative return. Again, this is indicated by the color coding, green for positive and red for nagative. 
+---
+![image](https://user-images.githubusercontent.com/105329532/178883089-f1fd1f04-382d-42e3-ad03-7d071272aa09.png)
+
+![image](https://user-images.githubusercontent.com/105329532/178882706-3431bd8d-8693-4635-bf72-f48275aa795a.png)
+---
+[image](https://user-images.githubusercontent.com/105329532/178868373-8b0f4e1f-dae9-4afe-aaa6-5677a4d6f82a.png)
 ---
 ## Summary
 ---
